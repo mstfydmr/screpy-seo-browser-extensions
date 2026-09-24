@@ -16,7 +16,7 @@ To learn more or install an extension, click the labels `Chrome`, `Firefox`, etc
 
 - [**PageExplorer**](https://pageexplorer.net) - Connects to Google, gets your Google Search Console data and helps you understand it page-by-page. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/pageexplorer/bddlccnclehmmpgmkhboflgpanfijicj) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/pageexplorer/) <!--<img src="/images/SEO-Chrome-Extensions/page-explorer.png" alt="Screenshot of PageExplorer Chrome Extension" style="max-height: 250px;">-->
 
-- **Screpy SEO Extension** - Check on-page SEO and backlinks from the current page. [`Chrome`](https://chromewebstore.google.com/detail/screpy-seo-extension/ppjlaoniiipidckjohaeblihkjodoiac)
+- [**Screpy SEO Extension**](https://screpy.com/browser/) - Check on-page SEO and backlinks from the current page. [`Chrome`](https://chromewebstore.google.com/detail/screpy-seo-extension/ppjlaoniiipidckjohaeblihkjodoiac)
 
 ## SERP Enhancement
 
